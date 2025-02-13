@@ -1,0 +1,301 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Marques, TA
+   Thomas, L
+   Martin, SW
+   Mellinger, DK
+   Ward, JA
+   Moretti, DJ
+   Harris, D
+   Tyack, PL
+AF Marques, Tiago A.
+   Thomas, Len
+   Martin, Stephen W.
+   Mellinger, David K.
+   Ward, Jessica A.
+   Moretti, David J.
+   Harris, Danielle
+   Tyack, Peter L.
+TI Estimating animal population density using passive acoustics
+SO BIOLOGICAL REVIEWS
+AB Reliable estimation of the size or density of wild animal populations is very important for effective wildlife management, conservation and ecology. Currently, the most widely used methods for obtaining such estimates involve either sighting animals from transect lines or some form of capture-recapture on marked or uniquely identifiable individuals. However, many species are difficult to sight, and cannot be easily marked or recaptured. Some of these species produce readily identifiable sounds, providing an opportunity to use passive acoustic data to estimate animal density. In addition, even for species for which other visually based methods are feasible, passive acoustic methods offer the potential for greater detection ranges in some environments (e.g. underwater or in dense forest), and hence potentially better precision. Automated data collection means that surveys can take place at times and in places where it would be too expensive or dangerous to send human observers. Here, we present an overview of animal density estimation using passive acoustic data, a relatively new and fast-developing field. We review the types of data and methodological approaches currently available to researchers and we provide a framework for acoustics-based density estimation, illustrated with examples from real-world case studies. We mention moving sensor platforms (e.g. towed acoustics), but then focus on methods involving sensors at fixed locations, particularly hydrophones to survey marine mammals, as acoustic-based density estimation research to date has been concentrated in this area. Primary among these are methods based on distance sampling and spatially explicit capture-recapture. The methods are also applicable to other aquatic and terrestrial sound-producing taxa. We conclude that, despite being in its infancy, density estimation based on passive acoustic data likely will become an important method for surveying a number of diverse taxa, such as sea mammals, fish, birds, amphibians, and insects, especially in situations where inferences are required over long periods of time. There is considerable work ahead, with several potentially fruitful research areas, including the development of (i) hardware and software for data acquisition, (ii) efficient, calibrated, automated detection and classification systems, and (iii) statistical approaches optimized for this application. Further, survey design will need to be developed, and research is needed on the acoustic behaviour of target species. Fundamental research on vocalization rates and group sizes, and the relation between these and other factors such as season or behaviour state, is critical. Evaluation of the methods under known density scenarios will be important for empirically validating the approaches presented here.
+RI Tyack, Peter/AAC-4513-2019; Marques, Tiago/M-3253-2019; Thomas,
+   Len/JQI-5425-2023; Tyack, Peter/D-6209-2013
+OI Harris, Danielle Veronica/0000-0003-1447-1420; Thomas,
+   Len/0000-0002-7436-067X; Marques, Tiago A./0000-0002-2581-1972; Tyack,
+   Peter/0000-0002-8409-4790
+SN 1464-7931
+EI 1469-185X
+PD MAY
+PY 2013
+VL 88
+IS 2
+BP 287
+EP 309
+DI 10.1111/brv.12001
+UT WOS:000317067900003
+PM 23190144
+ER
+
+PT J
+AU Lusher, AL
+   Hernandez-Milian, G
+   O'Brien, J
+   Berrow, S
+   O'Connor, I
+   Officer, R
+AF Lusher, Amy L.
+   Hernandez-Milian, Gema
+   O'Brien, Joanne
+   Berrow, Simon
+   O'Connor, Ian
+   Officer, Rick
+TI Microplastic and macroplastic ingestion by a deep diving, oceanic
+   cetacean: The True's beaked whale <i>Mesoplodon mirus</i>
+SO ENVIRONMENTAL POLLUTION
+AB When mammals strand, they present a unique opportunity to obtain insights into their ecology. In May 2013, three True's beaked whales (two adult females and a female calf) stranded on the north and west coasts of Ireland and the contents of their stomachs and intestines were analysed for anthropogenic debris. A method for identifying microplastics ingested by larger marine organisms was developed. Microplastics were identified throughout the digestive tract of the single whale that was examined for the presence of microplastics. The two adult females had macroplastic items in their stomachs. Food remains recovered from the adult whales consisted of mesopelagic fish (Benthosema glaciate, Nansenia spp., Chauliodius sloani) and cephalopods, although trophic transfer has been discussed, it was not possible to ascertain whether prey were the source of microplastics. This is the first study to directly identify microplastics <5 mm in a cetacean species. (C) 2015 Elsevier Ltd. All rights reserved.
+RI Lusher, Amy/Q-3483-2018; O’Connor, Ian/ABE-7483-2020; Hernandez-Milian,
+   Gema/B-7979-2009
+OI Officer, Rick/0000-0003-4496-1367; O'Connor, Ian/0000-0001-9738-6322;
+   Hernandez-Milian, Gema/0000-0003-2729-8348; Lusher,
+   Amy/0000-0003-0539-2974
+SN 0269-7491
+EI 1873-6424
+PD APR
+PY 2015
+VL 199
+BP 185
+EP 191
+DI 10.1016/j.envpol.2015.01.023
+UT WOS:000351972900023
+PM 25667115
+ER
+
+PT J
+AU Tyack, PL
+   Johnson, M
+   Soto, NA
+   Sturlese, A
+   Madsen, PT
+AF Tyack, Peter L.
+   Johnson, Mark
+   Soto, Natacha Aguilar
+   Sturlese, Albert
+   Madsen, Peter T.
+TI Extreme diving of beaked whales
+SO JOURNAL OF EXPERIMENTAL BIOLOGY
+AB Sound-and-orientation recording tags (DTAGs) were used to study 10 beaked whales of two poorly known species, Ziphius cavirostris (Zc) and Mesoplodon densirostris (Md). Acoustic behaviour in the deep foraging dives performed by both species (Zc: 28 dives by seven individuals; Md: 16 dives by three individuals) shows that they hunt by echolocation in deep water between 222 and 1885 m, attempting to capture about 30 prey/dive. This food source is so deep that the average foraging dives were deeper ( Zc: 1070 m; Md: 835 m) and longer (Zc: 58 min; Md: 47 min) than reported for any other air-breathing species. A series of shallower dives, containing no indications of foraging, followed most deep foraging dives. The average interval between deep foraging dives was 63 min for Zc and 92 min for Md. This long an interval may be required for beaked whales to recover from an oxygen debt accrued in the deep foraging dives, which last about twice the estimated aerobic dive limit. Recent reports of gas emboli in beaked whales stranded during naval sonar exercises have led to the hypothesis that their deep-diving may make them especially vulnerable to decompression. Using current models of breath-hold diving, we infer that their natural diving behaviour is inconsistent with known problems of acute nitrogen supersaturation and embolism. If the assumptions of these models are correct for beaked whales, then possible decompression problems are more likely to result from an abnormal behavioural response to sonar.
+RI Tyack, Peter/AAC-4513-2019; Madsen, Peter T./K-5832-2013; Aguilar de
+   Soto, Natacha/D-3002-2011; Tyack, Peter/D-6209-2013
+OI Madsen, Peter T./0000-0002-5208-5259; Aguilar de Soto,
+   Natacha/0000-0001-9818-3527; Tyack, Peter/0000-0002-8409-4790
+SN 0022-0949
+EI 1477-9145
+PD NOV 1
+PY 2006
+VL 209
+IS 21
+BP 4238
+EP 4253
+DI 10.1242/jeb.02505
+UT WOS:000242132500016
+PM 17050839
+ER
+
+PT J
+AU McGowen, MR
+   Spaulding, M
+   Gatesy, J
+AF McGowen, Michael R.
+   Spaulding, Michelle
+   Gatesy, John
+TI Divergence date estimation and a comprehensive molecular tree of extant
+   cetaceans
+SO MOLECULAR PHYLOGENETICS AND EVOLUTION
+AB Cetaceans are remarkable among mammals for their numerous adaptations to an entirely aquatic existence, yet many aspects of their phylogeny remain unresolved. Here we merged 37 new sequences from the nuclear genes RAG1 and PRM1 with most published molecular data for the group (45 nuclear loci, transposons, mitochondrial genomes), and generated a supermatrix consisting of 42,335 characters. The great majority of these data have never been combined. Model-based analyses of the supermatrix produced a solid, consistent phylogenetic hypothesis for 87 cetacean species. Bayesian analyses corroborated odontocete (toothed whale) monophyly, stabilized basal odontocete relationships, and completely resolved branching events within Mysticeti (baleen whales) as well as the problematic speciose clade Delphinidae (oceanic dolphins). Only limited conflicts relative to maximum likelihood results were recorded, and discrepancies found in parsimony trees were very weakly supported. We utilized the Bayesian supermatrix tree to estimate divergence dates among lineages using relaxed-clock methods. Divergence estimates revealed rapid branching of basal odontocete lineages near the Eocene-Oligocene boundary, the antiquity of river dolphin lineages, a Late Miocene radiation of balaenopteroid mysticetes, and a recent rapid radiation of Delphinidae beginning similar to 10 million years ago. Our comprehensive, time-calibrated tree provides a powerful evolutionary tool for broad-scale comparative studies of Cetacea. (C) 2009 Elsevier Inc. All rights reserved.
+SN 1055-7903
+EI 1095-9513
+PD DEC
+PY 2009
+VL 53
+IS 3
+BP 891
+EP 906
+DI 10.1016/j.ympev.2009.08.018
+UT WOS:000272644800025
+PM 19699809
+ER
+
+PT J
+AU Johnson, M
+   Madsen, PT
+   Zimmer, WMX
+   de Soto, NA
+   Tyack, PL
+AF Johnson, M
+   Madsen, PT
+   Zimmer, WMX
+   de Soto, NA
+   Tyack, PL
+TI Beaked whales echolocate on prey
+SO PROCEEDINGS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES
+AB Beaked whales (Cetacea: Ziphiidea) of the genera Ziphius and Mesoplodon are so difficult to study that they are mostly known from strandings. How these elusive toothed whales use and react to sound is of concern because they mass strand during naval sonar exercises. A new non-invasive acoustic recording tag was attached to four beaked whales (two Mesoplodon densirostris and two Ziphius cavirostris) and recorded high-frequency clicks during deep dives. The tagged whales only clicked at depths below 200 m, down to a maximum depth of 1267 m. Both species produced a large number of short, directional, ultrasonic clicks with no significant energy below 20 kHz. The tags recorded echoes from prey items; to our knowledge, a first for any animal echolocating in the wild. As far as we are aware, these echoes provide the first direct evidence on how free-ranging toothed whales use echolocation in foraging. The strength of these echoes suggests that the source level of Mesoplodon clicks is in the range of 200-220 dB re 1 muPa at 1 m. This paper presents conclusive data on the normal vocalizations of these beaked whale species, which may enable acoustic monitoring to mitigate exposure to sounds intense enough to harm them.
+RI Tyack, Peter/AAC-4513-2019; Aguilar de Soto, Natacha/D-3002-2011;
+   Madsen, Peter T./K-5832-2013; Tyack, Peter/D-6209-2013
+OI Aguilar de Soto, Natacha/0000-0001-9818-3527; Johnson,
+   Mark/0000-0001-8424-3197; Madsen, Peter T./0000-0002-5208-5259; Tyack,
+   Peter/0000-0002-8409-4790
+SN 0962-8452
+PD DEC 7
+PY 2004
+VL 271
+SU 6
+BP S383
+EP S386
+DI 10.1098/rsbl.2004.0208
+UT WOS:000226100600001
+PM 15801582
+ER
+
+PT J
+AU Teuten, EL
+   Xu, L
+   Reddy, CM
+AF Teuten, EL
+   Xu, L
+   Reddy, CM
+TI Two abundant bioaccumulated halogenated compounds are natural products
+SO SCIENCE
+AB Methoxylated polybrominated diphenyl ethers (MeO-PBDEs) have been found bioaccumulated in the tissues of a variety of aquatic animals and at concentrations comparable to those of anthropogenic halogenated organic compounds, including polychlorinated biphenyls (PCBs). The origin of the MeO-PBDEs has been uncertain; circumstantial evidence supports a natural and/or an industrial source. By analyzing the natural abundance radiocarbon content of two MeO-PBDEs isolated from a True's beaked whale (Mesoplodon mirus), we show that these compounds were naturally produced.
+RI Reddy, Chilla Malla/E-2550-2011
+OI Reddy, Christopher/0000-0002-7814-2071
+SN 0036-8075
+EI 1095-9203
+PD FEB 11
+PY 2005
+VL 307
+IS 5711
+BP 917
+EP 920
+DI 10.1126/science.1106882
+UT WOS:000226985100051
+PM 15705850
+ER
+
+PT J
+AU Madsen, PT
+   Johnson, M
+   de Soto, NA
+   Zimmer, WMX
+   Tyack, P
+AF Madsen, PT
+   Johnson, M
+   de Soto, NA
+   Zimmer, WMX
+   Tyack, P
+TI Biosonar performance of foraging beaked whales (<i>Mesoplodon
+   densirostris</i>)
+SO JOURNAL OF EXPERIMENTAL BIOLOGY
+AB Toothed whales (Cetacea, odontoceti) emit sound pulses to probe their surroundings by active echolocation. Noninvasive, acoustic Dtags were placed on deep-diving Blainville's beaked whales (Mesoplodon densirostris) to record their ultrasonic clicks and the returning echoes from prey items, providing a unique view on how a whale operates its biosonar during foraging in the wild. The process of echolocation during prey capture in this species can be divided into search, approach and terminal phases, as in echolocating bats. The approach phase, defined by the onset of detectable echoes recorded on the tag for click sequences terminated by a buzz, has interclick intervals (ICI) of 300-400 ms. These ICIs are more than a magnitude longer than the decreasing two-way travel time to the targets, showing that ICIs are not given by the two-way-travel times plus a fixed, short lag time. During the approach phase, the received echo energy increases by 10.4((+/-)2) dB when the target range is halved, demonstrating that the whales do not employ range compensating gain control of the transmitter, as has been implicated for some bats and dolphins. The terminal/buzz phase with ICIs of around 10 ms is initiated when one or more targets are within approximately a body length of the whale (2-5 m), so that strong echo returns in the approach phase are traded for rapid updates in the terminal phase. It is suggested that stable ICIs in the search and approach phases facilitate auditory scene analysis in a complex multi-target environment, and that a concomitant low click rate allows the whales to maintain high sound pressure outputs for prey detection and discrimination with a pneumatically driven, bi-modal sound generator. demonstrating that the whales do not employ range-compensating gain control of the transmitter, as has been implicated for some bats and dolphins. The terminal/buzz phase with ICIs of around 10 ms is initiated when one or more targets are within approximately a body length of the whale (2-5 m), so that strong echo returns in the approach phase are traded for rapid updates in the terminal phase. It is suggested that stable ICIs in the search and approach phases facilitate auditory scene analysis in a complex multi-target environment, and that a concomitant low click rate allows the whales to maintain high sound pressure outputs for prey detection and discrimination with a pneumatically driven, bi-modal sound generator.
+RI Tyack, Peter/AAC-4513-2019; Aguilar de Soto, Natacha/D-3002-2011; Tyack,
+   Peter/D-6209-2013; Madsen, Peter T./K-5832-2013
+OI Aguilar de Soto, Natacha/0000-0001-9818-3527; Tyack,
+   Peter/0000-0002-8409-4790; Madsen, Peter T./0000-0002-5208-5259
+SN 0022-0949
+EI 1477-9145
+PD JAN
+PY 2005
+VL 208
+IS 2
+BP 181
+EP 194
+DI 10.1242/jeb.01327
+UT WOS:000227102700006
+PM 15634839
+ER
+
+PT J
+AU Marques, TA
+   Thomas, L
+   Ward, J
+   DiMarzio, N
+   Tyack, PL
+AF Marques, Tiago A.
+   Thomas, Len
+   Ward, Jessica
+   DiMarzio, Nancy
+   Tyack, Peter L.
+TI Estimating cetacean population density using fixed passive acoustic
+   sensors: An example with Blainville's beaked whales
+SO JOURNAL OF THE ACOUSTICAL SOCIETY OF AMERICA
+AB Methods are developed for estimating the size/density of cetacean populations using data from a set of fixed passive acoustic sensors. The methods convert the number of detected acoustic cues into animal density by accounting for (i) the probability of detecting cues, (ii) the rate at which animals produce cues, and (iii) the proportion of false positive detections. Additional information is often required for estimation of these quantities, for example, from an acoustic tag applied to a sample of animals. Methods are illustrated with a case study: estimation of Blainville's beaked whale density over a 6 day period in spring 2005, using an 82 hydrophone wide-baseline array located in the Tongue of the Ocean, Bahamas. To estimate the required quantities, additional data are used from digital acoustic tags, attached to five whales over 21 deep dives, where cues recorded on some of the dives are associated with those received on the fixed hydrophones. Estimated density was 25.3 or 22.5 animals/1000 km(2), depending on assumptions about false positive detections, with 95% confidence intervals 17.3-36.9 and 15.4-32.9. These methods are potentially applicable to a wide variety of marine and terrestrial species that are hard to survey using conventional visual methods. (c) 2009 Acoustical Society of America. [DOI: 10.1121/1.3089590]
+RI Thomas, Len/JQI-5425-2023; Tyack, Peter/AAC-4513-2019; Marques,
+   Tiago/M-3253-2019; Tyack, Peter/D-6209-2013
+OI Tyack, Peter/0000-0002-8409-4790; Marques, Tiago A./0000-0002-2581-1972;
+   Thomas, Len/0000-0002-7436-067X
+SN 0001-4966
+EI 1520-8524
+PD APR
+PY 2009
+VL 125
+IS 4
+BP 1982
+EP 1994
+DI 10.1121/1.3089590
+PN 1
+UT WOS:000265838000028
+PM 19354374
+ER
+
+PT J
+AU Schorr, GS
+   Falcone, EA
+   Moretti, DJ
+   Andrews, RD
+AF Schorr, Gregory S.
+   Falcone, Erin A.
+   Moretti, David J.
+   Andrews, Russel D.
+TI First Long-Term Behavioral Records from Cuvier's Beaked Whales
+   (<i>Ziphius cavirostris</i>) Reveal Record-Breaking Dives
+SO PLOS ONE
+AB Cuvier's beaked whales (Ziphius cavirostris) are known as extreme divers, though behavioral data from this difficult-to-study species have been limited. They are also the species most often stranded in association with Mid-Frequency Active (MFA) sonar use, a relationship that remains poorly understood. We used satellite-linked tags to record the diving behavior and locations of eight Ziphius off the Southern California coast for periods up to three months. The effort resulted in 3732 hr of dive data with associated regional movements - the first dataset of its kind for any beaked whale - and included dives to 2992 m depth and lasting 137.5 min, both new mammalian dive records. Deep dives had a group mean depth of 1401 m (s.d. = 137.8, n = 1142) and duration of 67.4 min (s.d. = 6.9). The group mean time between deep dives was 102.3 min (s.d. = 30.8, n = 783). While the previously described stereotypic pattern of deep and shallow dives was apparent, there was considerable inter-and intra-individual variability in most parameters. There was significant diel behavioral variation, including increased time near the surface and decreased shallow diving at night. However, maximum depth and the proportion of time spent on deep dives (presumed foraging), varied little from day to night. Surprisingly, tagged whales were present within an MFA sonar training range for 38% of days locations were received, and though comprehensive records of sonar use during tag deployments were not available, we discuss the effects frequent acoustic disturbance may have had on the observed behaviors. These data better characterize the true behavioral range of this species, and suggest caution should be exercised when drawing conclusions about behavior using short-term datasets.
+OI Andrews, Russel/0000-0002-4545-137X
+SN 1932-6203
+PD MAR 26
+PY 2014
+VL 9
+IS 3
+AR e92633
+DI 10.1371/journal.pone.0092633
+UT WOS:000333677000060
+PM 24670984
+ER
+
+PT J
+AU Cañadas, A
+   Sagarminaga, R
+   García-Tiscar, S
+AF Cañadas, A
+   Sagarminaga, R
+   García-Tiscar, S
+TI Cetacean distribution related with depth and slope in the Mediterranean
+   waters off southern Spain
+SO DEEP-SEA RESEARCH PART I-OCEANOGRAPHIC RESEARCH PAPERS
+AB The northeastern section of the Alboran Sea is currently under consideration as a Special Area for Conservation under the European Union's Habitat Directive. Within this framework, the present study focuses on the distribution of cetaceans in this area and is part of the Spanish Ministry of the Environment's "Program for the Identification of Areas of Special Interest for the Conservation of Cetaceans in the Spanish Mediterranean". Shipboard visual surveys were conducted in 1992 and from 1995 to 2001 in the north-eastern Alboran Sea, covering 14,409 km. A total of 1,134 sightings of cetaceans were made. From the data collected, the distribution of seven species of odontocete was examined with respect to two physiographic variables, water depth and slope. Analyses of chi(2) and fitting of GLMs demonstrated significant differences in distribution for all species, mainly with respect to depth. Kruskal-Wallis tests, factor analysis and discriminant function analysis showed that the species could be classified in two major groups, shallow-waters (short-beaked common dolphin and bottlenose dolphin) and deep-waters (striped dolphin, Risso's dolphin, long-finned pilot whale, sperm whale and beaked whale), respectively. Preferred habitats in terms of water depth were areas deeper than 600 m for the deep-water group, and the shallower ranges from shore to 400 m for the other. The distribution of cetaceans was further matched with that of their most common prey in order to establish which habitats could be considered important for their feeding. The resulting analysis highlighted two areas in the region as important habitats for the conservation of the most vulnerable species in the Mediterranean, the bottlenose and the common dolphin. (C) 2003 Elsevier Science Ltd. All rights reserved.
+RI Canadas, Ana/AAA-5761-2019
+SN 0967-0637
+EI 1879-0119
+PD NOV
+PY 2002
+VL 49
+IS 11
+BP 2053
+EP 2073
+AR PII S0967-0637(02)00123-1
+DI 10.1016/S0967-0637(02)00123-1
+UT WOS:000180617600008
+ER
+
+EF
